@@ -43,7 +43,7 @@ Register your user to access login
 ```
 
 ```
-Login to acces your dashboard
+Login to acces and update your dashboard
 ```
 
 
